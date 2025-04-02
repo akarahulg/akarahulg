@@ -3,7 +3,7 @@
 
 I'm a **Software Engineer** working on the **SUIT Payload of the Aditya-L1 Mission** at **IUCAA, Pune**. Passionate about physics, scientific data processing, and software development.
 
-## 🚀 Work Experience
+## 🚀 Experiences
 
 ### **Software Engineer, SUIT Payload | Aditya-L1 Mission** *(Jun 2023 - Present)*
 ### **AstroSat Support Executive, CZTI Payload** *(Feb 2023 - May 2022)*
