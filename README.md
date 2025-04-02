@@ -1,7 +1,8 @@
 
 # Hi fellow humans! 👋
 
-I'm a **Software Engineer** working on the **SUIT Payload of the Aditya-L1 Mission** at **IUCAA, Pune**. Passionate about physics, scientific data processing, and software development.
+*Physics major on a journey to master both equations and code.*
+
 
 ## 🚀 Experiences
 
