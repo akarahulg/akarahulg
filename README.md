@@ -4,6 +4,7 @@
 
 **Physics major on a journey to master both concepts and code.**
 
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 🚀 Experiences
 
@@ -12,7 +13,7 @@
 
 ## 💻 Softwares
 Python • Django • Flask • MySQL • Git • Docker • Plotly • LaTeX
-
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ## 📫 Connect
 [Email: akarahulg@gmail.com](mailto:akarahulg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarahulg) | [Website](https://thisisrahulg.xyz) | [Instagram](https://www.instagram.com/akarahulg/)
 
