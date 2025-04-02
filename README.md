@@ -12,7 +12,7 @@ I'm a **Software Engineer** working on the **SUIT Payload of the Aditya-L1 Missi
 Python • Django • Flask • MySQL • Git • Docker • Plotly • LaTeX
 
 ## 📫 Connect
-[Email: akarahulg@gmail.com](mailto:akarahulg@gmail.com)
+[Email: akarahulg@gmail.com](mailto:akarahulg@gmail.com) \\
 [LinkedIn](https://www.linkedin.com/in/akarahulg) | [Website](https://thisisrahulg.xyz) | [Instagram](https://www.instagram.com/akarahulg/)
 
 Let's collaborate! 🚀
