@@ -9,10 +9,10 @@ I'm a **Software Engineer** working on the **SUIT Payload of the Aditya-L1 Missi
 ### **AstroSat Support Executive, CZTI Payload** *(Feb 2023 - May 2022)*
 
 ## 💻 Softwares
-Python • Django • Flask • PostgreSQL • Git • Docker • Plotly • LaTeX
+Python • Django • Flask • MySQL • Git • Docker • Plotly • LaTeX
 
 ## 📫 Connect
-[LinkedIn](www.linkedin.com/in/akarahulg) | [Website](https://thisisrahulg.xyz) | [Email](mailto:akarahulg@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akarahulg) | [Website](https://thisisrahulg.xyz) | [Instagram](https://www.instagram.com/akarahulg/)
 
 Let's collaborate! 🚀
 
