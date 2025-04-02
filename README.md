@@ -1,7 +1,7 @@
 
 # Hi fellow humans! 👋
 
-*Physics major on a journey to master both equations and code.*
+**Physics major on a journey to master both concepts and code.**
 
 
 ## 🚀 Experiences
