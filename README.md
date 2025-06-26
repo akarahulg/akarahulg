@@ -3,6 +3,6 @@
 # Hi fellow humans! 👋
 
 Let's connect through:
-[Email: akarahulg@gmail.com](mailto:akarahulg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarahulg) | [Website](https://thisisrahulg.xyz) | [Instagram](https://www.instagram.com/akarahulg/)
+[Email: akarahulg@gmail.com](mailto:akarahulg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarahulg) | [Website](https://akarahulg.github.io) | [Instagram](https://www.instagram.com/akarahulg/)
 
 
